@@ -1,0 +1,1 @@
+To Design a traffic-light controller for a two-road junction (Main road and Side road) using a **MOD-N counter** and combinational logic gates. A slow clock drives a MOD-12 counter; the counter output is decoded into the Red / Yellow / Green lamps of both roads.
